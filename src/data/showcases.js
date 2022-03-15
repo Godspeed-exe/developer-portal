@@ -818,6 +818,14 @@ const Showcases = [
     source: null,
     tags: ["analytics", "nftsupport"],
   },
+  {
+    title: "ADAZOO - MMORPG and METAVERSE",
+    description: "Fight and capture NFT's in a MMORPG environment. ",
+    preview: require("./showcase/adazoo.png"),
+    website: "https://adazoo.com",
+    source: null,
+    tags: ["nftproject", "game"],
+  },  
 ];
 
 export const TagList = Object.keys(Tags);
